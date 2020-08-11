@@ -1,2 +1,2 @@
 # Dataquest_project
-Projects through Python In Data Science course on Dataquest.io 
+Projects through Data Science Path on dataquest.io 
